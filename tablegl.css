@@ -1,0 +1,12 @@
+#table_gl td {
+    width: 1px;
+    height: 1px;
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.table_gl_body {
+    border: 0;
+    border-spacing: 0;
+}
